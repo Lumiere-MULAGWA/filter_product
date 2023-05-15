@@ -4,7 +4,7 @@ let products = {
     {
       productName:"simple bague",
       category:"Tool",
-      price:"LOREM IPSUM BLAAHHDHDHGHDB VFBFRHVFRGVHRFIVFRVFRUVF JHBRUBRBJGRHBGJBRHHJR RJRNJRKRGRPGJIGORBU RIRGHRJGBRHGBRHBBRH",
+      price:"5 000",
       image:"image/bague_simple.jpg",
     },
     {
